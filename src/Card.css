@@ -1,0 +1,27 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  width: 200px;
+  text-align: center;
+}
+
+.card.aprovado {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.card.reprovado {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.situacao-aluno {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;    
+  gap: 16px;              
+  height: 100vh;          
+  background-color: #f8f9fa;
+}
