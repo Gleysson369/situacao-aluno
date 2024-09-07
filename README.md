@@ -73,5 +73,3 @@ Este arquivo estiliza a página principal, organizando os inputs, botões e o ca
 4. O card será exibido com o nome do aluno e sua situação (Aprovado ou Reprovado) com base nas notas inseridas.
 
 ---
-
-Esse projeto é uma excelente base para sistemas de gestão escolar, onde o cálculo de médias e a visualização de resultados são essenciais.
